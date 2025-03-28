@@ -1,4 +1,4 @@
-productid,productname,category,unitprice,stockquantity,supplier
+ProductID,ProductName,Category,UnitPrice,StockQuantity,Supplier
 101,laptop,Electronics,793.12,35,TechCorp
 102,hoodie,Clothing,39.1,120,UrbanWear
 103,cable,Electronics,22.76,250,CableMasters

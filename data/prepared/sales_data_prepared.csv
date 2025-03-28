@@ -1,4 +1,4 @@
-transactionid,saledate,customerid,productid,storeid,campaignid,saleamount,discountpercent,paymenttype
+TransactionID,SaleDate,CustomerID,ProductID,StoreID,CampaignID,SaleAmount,DiscountPercent,PaymentType
 550.0,1/6/2024,1008.0,102.0,404.0,0.0,39.1,25,Card
 551.0,1/6/2024,1009.0,105.0,403.0,0.0,19.78,10,Cash
 552.0,1/16/2024,1004.0,107.0,404.0,0.0,335.1,15,Card
@@ -93,7 +93,3 @@ transactionid,saledate,customerid,productid,storeid,campaignid,saleamount,discou
 641.0,9/30/2024,1010.0,103.0,402.0,3.0,45.52,25,Cash
 642.0,10/10/2024,1002.0,101.0,402.0,0.0,5551.84,10,Card
 643.0,10/10/2024,1010.0,104.0,402.0,0.0,301.7,20,Cash
-,,,,,,,15,Cash
-,,,,,,,5,Cash
-,,,,,,,0,Cash
-,,,,,,,"0,Cash",

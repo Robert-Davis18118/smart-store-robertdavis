@@ -17,3 +17,18 @@ To set the VS Code Interpreter:
 - `data_prep_customers.py`: Cleans customer data (drops duplicates, removes missing, filters outliers)
 - `data_prep_products.py`: Cleans product data
 - `data_prep_sales.py`: Cleans sales data
+## Data Warehouse (P4)
+
+✅ Successfully created and loaded a star schema with one fact table (`sale`) and two dimension tables (`customer`, `product`).
+
+### Schema Summary
+
+- **customer**: Contains demographic and loyalty data
+- **product**: Contains item details including price and supplier
+- **sale**: Records transactions, including discounts and payment type
+
+### Screenshot of Populated Tables
+
+![Customer Table Screenshot](images/customer_table.png)
+![Product Table Screenshot](images/product_table.png)
+![Sale Table Screenshot](images/sale_table.png)

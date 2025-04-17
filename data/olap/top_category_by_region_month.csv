@@ -1,0 +1,13 @@
+product_category,region,month,total_sales
+Electronics,East,,58400.28
+Electronics,South,,20711.52
+Electronics,West,,13656.52
+Clothing,East,,4083.24
+Clothing,North,,3583.52
+Clothing,South,,3387.34
+Clothing,West,,2370.78
+Electronics,North,,1690.6200000000001
+Sports,North,,336.26
+Sports,East,,276.92
+Sports,South,,39.56
+Sports,West,,19.78

@@ -92,3 +92,36 @@ plt.title("Top-Selling Product Category by Region")
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
+
+Project 7
+1. Business Goal: Identify the most profitable product category by region and month over the past year.
+2. Database: smart_sales.db
+3. Tools: Chat GPT and Python
+4. Workflow and logic: 
+
+****Loaded and joined data from three tables
+
+Converted sale_date to datetime and extracted the month
+
+Grouped by category, region, and month
+
+Aggregated total sales with .groupby().agg()
+
+Created a bar chart showing sales by category and region
+
+5. Results: Electronics performed highest in East and South regions and Clothing had steady but lower performance
+6. Suggested Business Action
+Focus promotions on Electronics in East and South
+
+Analyze why Clothing underperforms and target marketing accordingly
+7. Challenges
+SQLite table was named sale instead of sales, which caused query errors
+
+Some visuals did not display at first due to missing region data and plotting issues
+
+8. Ethical Considerations
+All data was anonymized and fictional
+
+No customer names or PII were used
+
+BI decisions should still include human judgment despite automation
